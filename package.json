@@ -1,0 +1,14 @@
+{
+  "name": "com.p3k.unitymathseedgenerator",
+  "version": "1.0.0",
+  "displayName": "Unity Math Seed Generator",
+  "description": "",
+  "unity": "2020.1",
+  "documentationUrl": "https://github.com/p3k22/UnityMathSeedGenerator/#readme",
+  "dependencies": {
+    "com.unity.mathematics": "1.2.6"
+  },
+  "author": {
+    "name": "P3k"
+  }
+}
